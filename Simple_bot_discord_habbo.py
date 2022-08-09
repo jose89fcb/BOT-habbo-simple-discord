@@ -12,7 +12,7 @@ import time
 
 
 
-bot = commands.Bot(command_prefix='!', description="ayuda bot") #Prefijo para el comando !sticker
+bot = commands.Bot(command_prefix='!', description="ayuda bot") #Prefijo para el comando !habbo
 bot.remove_command("help") # Borra el comando por defecto !help
 
 
